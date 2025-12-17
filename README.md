@@ -7,14 +7,14 @@ Me chamo Fellipe, tenho 19 anos e sou natural de Paranaguá/PR. Concluí o ensin
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+    <a href="www.linkedin.com/in/fellipe-fernandes-nogueira" target="_blank">
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+    <a href="https://www.instagram.com/llip_fernandes/" target="_blank">
         <img 
             alt="Instagram"
             title="Me siga no Instagram"
