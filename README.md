@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fellipe Fernandes Nogueira
+# 🧑🏽‍💻 Fellipe Fernandes Nogueira
 
 **`Desenvolvedor de Sistemas`**
 
