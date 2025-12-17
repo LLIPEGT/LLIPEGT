@@ -7,7 +7,7 @@ Me chamo Fellipe, tenho 19 anos e sou natural de Paranaguá/PR. Concluí o ensin
 
 
 <p align="left">
-    <a href="www.linkedin.com/in/fellipe-fernandes-nogueira" target="_blank">
+    <a href="https://www.linkedin.com/in/fellipe-fernandes-nogueira/" target="_blank">
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
